@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<body style="background-color:black;">
+
+	<h1 style="text-align:left;color:orange;font-family:verdana;font-size:200%;"> About Us: </h1>	
+
+	<p style="color:red;">
+		&emsp;  &emsp; &emsp;We are providing information about computr and it's components.i.e.Input Devices,output devices, 
+		<br>processing devices,etc.If you have any query or you wanna share any information regarding ou topic ,you can contact
+		<br>us.You can also give feedback to us.If you find any error in our content like wrong information or spelling mistake
+		<br>regarding our topic then you can contact us.We are doing our best to meet the requirements of good content but a man 
+		<br>always does mistake . 
+	</p>
+
+	<h1 style="text-align:left;color:yellow;font-family:italic;font-size:100%;"> Our Ambition: </h1>
+
+	<p style="color:green;">
+		&emsp;  &emsp; &emsp;Our aim to provide good information to our students.<br> Our main ambition is to meet 
+		the requirements of current modern technology. 
+	</p>
+	
+	<h3 style="text-align:left;color:yellow;font-size:100%;font-style:italic;"> For any query: </h3>
+
+	<p style="color:blue;">
+			
+		E-mail: <u>hello@world.com</u>
+		<br>
+		Call:   042-000000-00,+92333000000
+	</p>
+
+	
+	</body>
+</html>		
